@@ -17,28 +17,28 @@
 **Условие задачи:**
 Есть [API по информации о супергероях](https://akabab.github.io/superhero-api/api/) с информацией по всем супергероям. Напишите функцию для определения самого умного супергероя среди Hulk, Captain America, Thanos.
 
-[Мое решение](Netology_working_with_requests_library__http_requests/home_work_1.py)
+> [Мое решение](Netology_working_with_requests_library__http_requests/home_work_1.py)
 
 ### Кто самый умный супергерой (часть 2)
 
 **Условие задачи:**
 Есть [API по информации о супергероях](https://akabab.github.io/superhero-api/api/) с информацией по всем супергероям. Теперь нужно найти самого умного супергероя среди списка супергеров. Напишите функцию `get_the_smartest_superhero`, которая принимает на вход список `superheros`, состоящий из id.
 
-[Мое решение](Netology_working_with_requests_library__http_requests/home_work_2.py)
+> [Мое решение](Netology_working_with_requests_library__http_requests/home_work_2.py)
 
 ### Переводчик
 
 **Условие задачи:**
 У Яндекса есть очень удобное [API для словарей](https://yandex.ru/dev/dictionary/). Там можно переводить слова с одного языка на другой. Ваша задача – написать функцию, которая принимает русское слово и возвращает его перевод на английском языке. Для работы с API вам потребуется получить [токен](https://yandex.ru/dev/dictionary/keys/get/?service=dict). В описании введите «Для обучения» и вы получите бесплатный токен.
 
-[Мое решение](Netology_working_with_requests_library__http_requests/home_work_3.py)
+> [Мое решение](Netology_working_with_requests_library__http_requests/home_work_3.py)
 
 ### Куда поедем в отпуск?
 
 **Условие задачи:**
 Альберт Эйнштейн, возвращаясь из своей очередной научной конференции, решил разыграть свою жену. Он ей рассказал, что посетил большое количество европейских городов, но больше всего ему понравился город из Великобритании. И пообещал ей, если она сможет найти по координатам этот город, то свозит её туда в ближайший отпуск. Целую неделю Эльза работала с картами, чтобы найти нужный город. А как мы были решили эту задачу, имея API и интернет? Напишите функцию, которая принимает на вход список из координат (кортеж из широты и долготы) и возращает английский город. Список городов Великобритании ограничен 8 самыми популярными городами: Leeds, London, Liverpool, Manchester, Oxford, Edinburgh, Norwich, York. Гарантируется, что в списке есть как минимум 1 британский город. Для нахождения города по координатам рекомендуется использовать [API geocode](https://geocode.maps.co/).
 
-[Мое решение](Netology_working_with_requests_library__http_requests/home_work_4.py)
+> [Мое решение](Netology_working_with_requests_library__http_requests/home_work_4.py)
 
 ## Дополнительная информация
 
